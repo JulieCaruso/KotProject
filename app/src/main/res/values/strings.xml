@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Kot Project</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="login">Log In</string>
+    <string name="signin">Sign In</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="sex">Sex</string>
+    <string name="sex_m">M</string>
+    <string name="sex_f">F</string>
+    <string name="department">Department</string>
+
+    <string name="error_empty">Field mustn\'t be empty.</string>
+    <string name="error_not_a_number">Field must be a number.</string>
+    <string name="error_equal_password">Password fields should be equal.</string>
+</resources>
