@@ -12,6 +12,7 @@
     <string name="title_notifications">Notifications</string>
 
     <string name="profile">Profile</string>
+    <string name="update_profile">Update profile</string>
 
     <string name="firstname">Firstname</string>
     <string name="lastname">Lastname</string>

@@ -25,7 +25,8 @@
         <activity
             android:name=".signin.SigninActivity"
             android:label="@string/signin" />
-        <activity android:name=".profile.ProfileActivity"></activity>
+        <activity android:name=".profile.ProfileActivity" />
+        <activity android:name=".profile.update.UpdateProfileActivity"></activity>
     </application>
 
 </manifest>
